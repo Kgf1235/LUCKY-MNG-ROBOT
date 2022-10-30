@@ -425,7 +425,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            callback_data="https://github.com/TheAnonymous2005",
+                            callback_data="https://github.com/Kgf1235/LUCKY-MNG-ROBOT",
                         ),
                     ],
                     [
